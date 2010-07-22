@@ -4,7 +4,7 @@ import sys, os
 setup(name='failureaction',
       version="1.0a1",
       description="Decorators for actions executed in case of an exception",
-      long_description=open('failureaction.txt').read(),
+      long_description=open('README.txt').read(),
       classifiers=[
           'Development Status :: 3 - Alpha',
           'Intended Audience :: Developers',
