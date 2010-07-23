@@ -16,5 +16,6 @@ setup(name='failureaction',
       url='',
       license='ZPL 2.1',
       zip_safe=True,
+      test_suite = 'tests.test_suite',
       py_modules=['failureaction']
       )
